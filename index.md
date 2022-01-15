@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Git Developer Pages
-navbar: false
+navbar: true
 ---
 
 # {{ page.title }}
